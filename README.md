@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Create new project
+npx create-react-app my-app
+
 In the project directory, you can run:
 
 ### `npm start`
